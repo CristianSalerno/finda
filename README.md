@@ -1,6 +1,3 @@
-# @4t4sh/react-next-chakra-ts
-
-Production ready solution using ReactJS, NextJS, ChakraUI and TypeScript.
 
 ## Requirements
 
